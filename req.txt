@@ -1,0 +1,14 @@
+
+openai
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langgraph
+langchain-chroma
+chromadb
+sentence-transformers
+"mcp[cli]"
+pydantic
+fastapi
+uvicorn
