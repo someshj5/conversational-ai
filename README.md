@@ -47,11 +47,9 @@ Make sure the following tools are installed:
 Clone the Forge project from GitHub:
 
 ```bash
-git clone <FORGE_GITHUB_REPOSITORY_URL>
+git clone https://github.com/someshj5/conversational-ai.git
 cd conversational-ai
 ```
-
-Replace `<FORGE_GITHUB_REPOSITORY_URL>` with the actual GitHub URL of the Forge application repository.
 
 ## 3. Configure environment variables
 
